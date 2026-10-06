@@ -24,7 +24,7 @@ Product-related impurities include clipped species, mispaired disulfides and oli
 Mammalian expression introduces ER translocation, calnexin/calreticulin cycling, PDI-mediated disulfide isomerisation and COPII-dependent trafficking, followed by Golgi-localised N-glycan processing through MGAT1, MGAT2, B4GALT1 and FUT8. 
 Fc-containing rProteins exhibit host-dependent glycoform distributions affecting FcγR engagement, ADCC, CDC and FcRn-mediated recycling, while EPO production depends on site-specific N- and O-glycan occupancy. 
 Insulin maturation requires proinsulin processing, C-peptide excision and native A/B-chain disulfide connectivity, making chassis genotype, secretion competence, ER capacity and PTM repertoire key determinants of recombinant product quality. 
-
+# listing things not much description or explanation. Doesn't flow
 
 ## Writing sample 2
 
@@ -39,7 +39,7 @@ There are a number of multifaceted factors that can influence the production of 
 It is therefore important to take a holistic approach when considering the different factors that may impact the overall production process and to ensure that these are appropriately taken into account during system development. 
 By doing so, it is possible to optimise the production process while also ensuring that the resulting product is aligned with the requirements of its intended application, including any relevant consideration of regulatory, legal, or other considerations associated with the intended product or application. 
 Consideration of the different approaches available can therefore play an important role in enabling informed decision-making by the discerning industrial biotechnologist, allowing them to identify the most suitable strategy for achieving the desired production outcomes across a range of different applications and production contexts.
-
+# doesn't give examples or expand on science facts. 
 
 ## Writing sample 3
 
@@ -51,5 +51,5 @@ However, ensuring that the product is produced and purified in its active form r
 Some products (e.g., insulin, monoclonal antibodies) require disulfide bond formation to achieve their correctly folded, active form. 
 Others (e.g., monoclonal antibodies, erythropoietin) must be correctly glycosylated. 
 Therefore, selection of an expression host system that is able to produce a given product with the post-translational modifications necessary for that product's activity is essential. 
-
+# gives examples for facts but doesn't go into depth on any facts or examples more general basic level science 
 
